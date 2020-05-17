@@ -1,10 +1,12 @@
+package task2;
+
 import org.junit.Assert;
 
 public class Test {
     /**
      * Тест работает не всегда, так как массив заполняется случайными числами
-     * чтобы тест работал корректно, необходимо закомментировать строки 25, 26 класса AnotherSolution
-     * и раскомментировать строку 24 класса AnotherSolution
+     * чтобы тест работал корректно, необходимо закомментировать строки 25, 26 класса task2.AnotherSolution
+     * и раскомментировать строку 24 класса task2.AnotherSolution
      * @throws Exception
      */
     @org.junit.Test
