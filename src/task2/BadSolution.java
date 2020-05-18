@@ -105,6 +105,7 @@ public class BadSolution {
         }
     }
 
+    //НЕ ИСПОЛЬЗУЕТСЯ
     public String getIndexesThatGiveRequiredSum(int [] arrayForSearching, int requiredSum) {
         mergeSort(arrayForSearching,arrayForSearching.length);
         printArray(arrayForSearching);
